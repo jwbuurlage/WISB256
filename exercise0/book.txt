@@ -2,3 +2,6 @@
 
 A long time ago, in a repository far far away a new file was created. It was a time of great unrest and files changing. 
 
+## Chapter 2: Git Merges Back
+
+A long time ago, in a repository far far away a new branch was created. 
