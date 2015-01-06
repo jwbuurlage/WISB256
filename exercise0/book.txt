@@ -4,4 +4,4 @@ A long time ago, in a repository far far away a new file was created. It was a t
 
 ## Chapter 2: Git Merges Back
 
-A long time ago, in a repository far far away a new branch was created. After merging, everybody lived happily ever after.
+A long time ago, in a repository far away a new branch was created. After merging, everybody lived happily ever after.
