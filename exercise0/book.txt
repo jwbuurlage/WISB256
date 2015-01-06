@@ -1,4 +1,4 @@
 ## Chapter 1: A New File
 
-A long time ago, in a repository far far away a new file was created. It was a time of great unrest and files changing. 
+A long time ago, in a repository far far away a new file was created. It was a time of great great unrest and files changing. 
 
