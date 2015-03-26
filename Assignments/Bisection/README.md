@@ -1,4 +1,4 @@
-## Week 4: Bisection
+## Bisection
 
 ### Goals
 
