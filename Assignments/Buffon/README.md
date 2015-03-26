@@ -1,4 +1,4 @@
-## Week 3: Estimating $\pi$
+## Estimating $\pi$
 
 ### Goals
 
